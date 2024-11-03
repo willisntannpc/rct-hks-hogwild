@@ -9,7 +9,7 @@ function HogTile({ hog }) {
   };
 
   return (
-    <div className="ui card" onClick={handleTileClick}>
+    <div className="ui card" onClick={handleTileClick} style={{ cursor: "pointer" }}>
       <div className="image">
         <img src={hog.image} alt={hog.name} />
       </div>
@@ -24,6 +24,8 @@ function HogTile({ hog }) {
           </div>
         )}
       </div>
+      <div className="extra content"></div>
+      <button className="ui red button" onClick={(e) => { e.stopPropagation(); onHide(hog.name); }}>Hide</button>
     </div>
   );
 }
