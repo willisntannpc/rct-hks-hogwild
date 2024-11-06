@@ -25,7 +25,7 @@ function HogTile({ hog }) {
         )}
       </div>
       <div className="extra content"></div>
-      <button className="ui red button" onClick={(e) => { e.stopPropagation(); onHide(hog.name); }}>Hide</button>
+      {/* <button className="ui red button" onClick={(e) => { e.stopPropagation(); onHide(hog.name); }}>Hide</button> */}
     </div>
   );
 }
