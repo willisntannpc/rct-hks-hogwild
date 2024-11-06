@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rct-hks-hogwild/static/css/main.f2d717e1.chunk.css",
+    "main.js": "/rct-hks-hogwild/static/js/main.81845f62.chunk.js",
+    "main.js.map": "/rct-hks-hogwild/static/js/main.81845f62.chunk.js.map",
+    "runtime-main.js": "/rct-hks-hogwild/static/js/runtime-main.649a87e3.js",
+    "runtime-main.js.map": "/rct-hks-hogwild/static/js/runtime-main.649a87e3.js.map",
+    "static/css/2.3c4bf932.chunk.css": "/rct-hks-hogwild/static/css/2.3c4bf932.chunk.css",
+    "static/js/2.cc8510da.chunk.js": "/rct-hks-hogwild/static/js/2.cc8510da.chunk.js",
+    "static/js/2.cc8510da.chunk.js.map": "/rct-hks-hogwild/static/js/2.cc8510da.chunk.js.map",
+    "index.html": "/rct-hks-hogwild/index.html",
+    "precache-manifest.6df4ef0433ef666b825a87682e933e0f.js": "/rct-hks-hogwild/precache-manifest.6df4ef0433ef666b825a87682e933e0f.js",
+    "service-worker.js": "/rct-hks-hogwild/service-worker.js",
+    "static/css/2.3c4bf932.chunk.css.map": "/rct-hks-hogwild/static/css/2.3c4bf932.chunk.css.map",
+    "static/css/main.f2d717e1.chunk.css.map": "/rct-hks-hogwild/static/css/main.f2d717e1.chunk.css.map",
+    "static/js/2.cc8510da.chunk.js.LICENSE.txt": "/rct-hks-hogwild/static/js/2.cc8510da.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/rct-hks-hogwild/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/porco.png": "/rct-hks-hogwild/static/media/porco.00a18b45.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.649a87e3.js",
+    "static/css/2.3c4bf932.chunk.css",
+    "static/js/2.cc8510da.chunk.js",
+    "static/css/main.f2d717e1.chunk.css",
+    "static/js/main.81845f62.chunk.js"
+  ]
+}
